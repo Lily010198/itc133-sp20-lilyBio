@@ -1,1 +1,2 @@
 This is where I put my bio. This is a third commit. This is the last commit for this assignment. 
+My name is Lily Tsegaye. I am currently pursuing a software development track with Year Up. I am currently learning how to build a static/dynamic site using HTML, CSS and JavaScript. I am also learning how to use the version tracking system GitHub to track the changes I made overtime while building my page.  
